@@ -1,4 +1,4 @@
-<h3 align="center">A zealous and aspiring Machine Learning Engineer, currently pursuing a Master's degree in Computer Science in the bustling city of Los Angeles.</h3>
+<h3 align="center">Master's Student Pursuing Machine Learning</h3>
 
 - 🔭 I’m currently working on **Recommendation System**
 
